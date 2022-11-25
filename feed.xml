@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-11-25T13:41:08+00:00</updated><id>/feed.xml</id><title type="html">눈썹지키미 블로그</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>CodingNoye</name></author><entry><title type="html">눈썹지키미 6주차</title><link href="/jekyll/2022/11/23/%EB%88%88%EC%8D%B9%EC%A7%80%ED%82%A4%EB%AF%B8-6%EC%A3%BC%EC%B0%A8.html" rel="alternate" type="text/html" title="눈썹지키미 6주차" /><published>2022-11-23T00:00:00+00:00</published><updated>2022-11-23T00:00:00+00:00</updated><id>/jekyll/2022/11/23/%EB%88%88%EC%8D%B9%EC%A7%80%ED%82%A4%EB%AF%B8-6%EC%A3%BC%EC%B0%A8</id><content type="html" xml:base="/jekyll/2022/11/23/%EB%88%88%EC%8D%B9%EC%A7%80%ED%82%A4%EB%AF%B8-6%EC%A3%BC%EC%B0%A8.html"><![CDATA[<h2 id="개요">개요</h2>
+
+<p>6주차 눈썹지키미 스터디는 백준에서 DFS관련 5문제를 선정해 뽑았습니다.</p>
+
+<p>문제 목록은 아래와 같습니다.</p>
+
+<p><a href="https://www.acmicpc.net/problem/2644">A번: [2644] 촌수계산</a><br />
+<a href="https://www.acmicpc.net/problem/17472">B번: [17472] 다리 만들기 2</a><br />
+<a href="https://www.acmicpc.net/problem/11123">C번: [11123] 양 한마리… 양 두마리…</a><br />
+<a href="https://www.acmicpc.net/problem/17265">D번: [17265] 나의 인생에는 수학과 함께</a><br />
+<a href="https://www.acmicpc.net/problem/14942">E번: [14942] 개미</a></p>
+
+<h2 id="스코어보드">스코어보드</h2>
+
+<p><img src="/assets/images/6주차_스코어보드.png" alt="6주차_스코어보드" /><br />
+한창훈님은 병원에 입원하셔서 눈썹이 위험해지게 되었습니다.</p>
+
+<h2 id="팀원-블로그">팀원 블로그</h2>
+
+<p>팀원 각자가 블로그에 리뷰/회고를 작성했습니다.</p>
+
+<p><a href="https://github.com/Erica1217/algorithm-study-save-eyebrow">김유진 블로그</a><br />
+<a href="https://github.com/grapefruit224/protect_eyebrow">이소정 블로그</a><br />
+<a href="https://github.com/gustjr7879/problem_solve/tree/main/%EB%AA%A8%EA%B0%81%EC%BD%94">박현석 블로그</a><br />
+<a href="https://blog.noye.work/categories/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/">한창훈 블로그</a><br />
+<a href="https://github.com/hantawon123/K_lab-study">한태원 블로그</a></p>]]></content><author><name>DMLab</name></author><category term="jekyll" /><category term="DMLab" /><category term="알고리즘" /><category term="백준" /><summary type="html"><![CDATA[개요]]></summary></entry><entry><title type="html">눈썹지키미 5주차</title><link href="/jekyll/2022/11/16/%EB%88%88%EC%8D%B9%EC%A7%80%ED%82%A4%EB%AF%B8-5%EC%A3%BC%EC%B0%A8.html" rel="alternate" type="text/html" title="눈썹지키미 5주차" /><published>2022-11-16T00:00:00+00:00</published><updated>2022-11-16T00:00:00+00:00</updated><id>/jekyll/2022/11/16/%EB%88%88%EC%8D%B9%EC%A7%80%ED%82%A4%EB%AF%B8-5%EC%A3%BC%EC%B0%A8</id><content type="html" xml:base="/jekyll/2022/11/16/%EB%88%88%EC%8D%B9%EC%A7%80%ED%82%A4%EB%AF%B8-5%EC%A3%BC%EC%B0%A8.html"><![CDATA[<h2 id="개요">개요</h2>
+
+<p>5주차 눈썹지키미 스터디는 백준에서 4문제를 선정해 뽑았습니다.</p>
+
+<p>문제 목록은 아래와 같습니다.</p>
+
+<p><a href="https://www.acmicpc.net/problem/5525">A번: [5525] IOIOI</a><br />
+<a href="https://www.acmicpc.net/problem/5052">B번: [5052] 전화번호 목록</a><br />
+<a href="https://www.acmicpc.net/problem/1600">C번: [1600] 말이 되고픈 원숭이</a><br />
+<a href="https://www.acmicpc.net/problem/2263">D번: [2263] 트리의 순회</a></p>
+
+<h2 id="스코어보드">스코어보드</h2>
+
+<p><img src="/assets/images/4주차_스코어보드.png" alt="5주차_스코어보드" /></p>
+
+<h2 id="팀원-블로그">팀원 블로그</h2>
+
+<p>팀원 각자가 블로그에 리뷰/회고를 작성했습니다.</p>
+
+<p><a href="https://github.com/Erica1217/algorithm-study-save-eyebrow">김유진 블로그</a><br />
+<a href="https://github.com/grapefruit224/protect_eyebrow">이소정 블로그</a><br />
+<a href="https://github.com/gustjr7879/problem_solve/tree/main/%EB%AA%A8%EA%B0%81%EC%BD%94">박현석 블로그</a><br />
+<a href="https://blog.noye.work/categories/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/">한창훈 블로그</a><br />
+<a href="https://github.com/hantawon123/K_lab-study">한태원 블로그</a></p>]]></content><author><name>DMLab</name></author><category term="jekyll" /><category term="DMLab" /><category term="알고리즘" /><category term="백준" /><summary type="html"><![CDATA[개요]]></summary></entry><entry><title type="html">눈썹지키미 4주차</title><link href="/jekyll/2022/11/09/%EB%88%88%EC%8D%B9%EC%A7%80%ED%82%A4%EB%AF%B8-4%EC%A3%BC%EC%B0%A8.html" rel="alternate" type="text/html" title="눈썹지키미 4주차" /><published>2022-11-09T00:00:00+00:00</published><updated>2022-11-09T00:00:00+00:00</updated><id>/jekyll/2022/11/09/%EB%88%88%EC%8D%B9%EC%A7%80%ED%82%A4%EB%AF%B8-4%EC%A3%BC%EC%B0%A8</id><content type="html" xml:base="/jekyll/2022/11/09/%EB%88%88%EC%8D%B9%EC%A7%80%ED%82%A4%EB%AF%B8-4%EC%A3%BC%EC%B0%A8.html"><![CDATA[<h2 id="개요">개요</h2>
+
+<p>4주차 눈썹지키미 스터디는 프로그래머스에서 4문제를 선정해 뽑았습니다.</p>
+
+<p>문제 목록은 아래와 같습니다.</p>
+
+<ul>
+  <li>기능개발</li>
+  <li>네트워크</li>
+  <li>야근 지수</li>
+  <li>크레인 인형뽑기 게임</li>
+</ul>
+
+<h2 id="스코어보드">스코어보드</h2>
+
+<p>프로그래머스에서는 스코어보드는 제공되지 않아서 사진은 없습니다.</p>
+
+<p>참석한 팀원 4명 모두 4문제를 다 풀었습니다.<br />
+그리고 박현석님은 건강 문제로 불참하게 되어 눈썹이 위험해지게 되었습니다.</p>
+
+<h2 id="팀원-블로그">팀원 블로그</h2>
+
+<p>팀원 각자가 블로그에 리뷰/회고를 작성했습니다.</p>
+
+<p><a href="https://github.com/Erica1217/algorithm-study-save-eyebrow">김유진 블로그</a><br />
+<a href="https://github.com/gustjr7879/problem_solve/tree/main/%EB%AA%A8%EA%B0%81%EC%BD%94">박현석 블로그</a><br />
+<a href="https://github.com/grapefruit224/protect_eyebrow">이소정 블로그</a><br />
+<a href="https://github.com/hantawon123/K_lab-study">한태원 블로그</a><br />
+<a href="https://blog.noye.work/tags/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98">한창훈 블로그</a></p>]]></content><author><name>DMLab</name></author><category term="jekyll" /><category term="DMLab" /><category term="알고리즘" /><category term="백준" /><summary type="html"><![CDATA[개요]]></summary></entry><entry><title type="html">눈썹지키미 3주차</title><link href="/jekyll/2022/11/02/%EB%88%88%EC%8D%B9%EC%A7%80%ED%82%A4%EB%AF%B8-3%EC%A3%BC%EC%B0%A8.html" rel="alternate" type="text/html" title="눈썹지키미 3주차" /><published>2022-11-02T00:00:00+00:00</published><updated>2022-11-02T00:00:00+00:00</updated><id>/jekyll/2022/11/02/%EB%88%88%EC%8D%B9%EC%A7%80%ED%82%A4%EB%AF%B8-3%EC%A3%BC%EC%B0%A8</id><content type="html" xml:base="/jekyll/2022/11/02/%EB%88%88%EC%8D%B9%EC%A7%80%ED%82%A4%EB%AF%B8-3%EC%A3%BC%EC%B0%A8.html"><![CDATA[<h2 id="개요">개요</h2>
+
+<p>3주차 눈썹지키미 스터디는 DP 관련 4문제를 선정해 풀었습니다.</p>
+
+<p><a href="https://www.acmicpc.net/problem/14494">A번: [14494] 다이나믹이 뭐에요?</a><br />
+<a href="https://www.acmicpc.net/problem/10164">B번: [10164] 격자상의 경로</a><br />
+<a href="https://www.acmicpc.net/problem/5582">C번: [5582] 공통 부분 문자열</a><br />
+<a href="https://www.acmicpc.net/problem/1086">D번: [1086] 박성원</a></p>
+
+<h2 id="스코어보드">스코어보드</h2>
+
+<p><img src="/assets/images/3주차_스코어보드.png" alt="3주차_스코어보드" /></p>
+
+<p>김유진님은 스코어보드에 없지만, A, B번 문제를 풀었습니다.<br />
+그리고 이소정님은 개인사정으로 불참하게 되어 눈썹이 위험해지게 되었습니다.</p>
+
+<h2 id="팀원-블로그">팀원 블로그</h2>
+
+<p>팀원 각자가 블로그에 리뷰/회고를 작성했습니다.</p>
+
+<p><a href="https://github.com/Erica1217/algorithm-study-save-eyebrow/blob/main/221108%20DP.md">김유진 블로그</a><br />
+<a href="https://github.com/gustjr7879/problem_solve/tree/main/%EB%AA%A8%EA%B0%81%EC%BD%94/3%EC%A3%BC%EC%B0%A8(dp)">박현석 블로그</a><br />
+<a href="https://github.com/hantawon123/K_lab-study/tree/master/%EB%AA%A8%EA%B0%81%EC%BD%94%203%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94">한태원 블로그</a><br />
+<a href="https://blog.noye.work/posts/DMLab-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%8A%A4%ED%84%B0%EB%94%94-9%EC%A3%BC%EC%B0%A8/">한창훈 블로그</a></p>]]></content><author><name>DMLab</name></author><category term="jekyll" /><category term="DMLab" /><category term="알고리즘" /><category term="백준" /><summary type="html"><![CDATA[개요]]></summary></entry><entry><title type="html">눈썹지키미 2주차</title><link href="/jekyll/2022/10/11/%EB%88%88%EC%8D%B9%EC%A7%80%ED%82%A4%EB%AF%B8-2%EC%A3%BC%EC%B0%A8.html" rel="alternate" type="text/html" title="눈썹지키미 2주차" /><published>2022-10-11T00:00:00+00:00</published><updated>2022-10-11T00:00:00+00:00</updated><id>/jekyll/2022/10/11/%EB%88%88%EC%8D%B9%EC%A7%80%ED%82%A4%EB%AF%B8-2%EC%A3%BC%EC%B0%A8</id><content type="html" xml:base="/jekyll/2022/10/11/%EB%88%88%EC%8D%B9%EC%A7%80%ED%82%A4%EB%AF%B8-2%EC%A3%BC%EC%B0%A8.html"><![CDATA[<h2 id="개요">개요</h2>
+
+<p>2주차 눈썹지키미 스터디는 그리디 관련 4문제를 선정해 풀었습니다.</p>
+
+<p><a href="https://www.acmicpc.net/problem/11501">A번: [11501] 주식</a><br />
+<a href="https://www.acmicpc.net/problem/2812">B번: [2812] 크게 만들기</a><br />
+<a href="https://www.acmicpc.net/problem/12904">C번: [12904] A와 B</a><br />
+<a href="https://www.acmicpc.net/problem/1132">D번: [1132] 합</a></p>
+
+<h2 id="스코어보드">스코어보드</h2>
+
+<p><img src="/assets/images/2주차_스코어보드.png" alt="2주차_스코어보드" /></p>
+
+<p>이번 주는 A와 C는 모두가 풀었습니다.<br />
+그리고 다행이 이번 주에도 눈썹을 지키지 못한 사람이 없었습니다.</p>
+
+<h2 id="팀원-블로그">팀원 블로그</h2>
+
+<p>팀원 각자가 블로그에 리뷰/회고를 작성했습니다.</p>
+
+<p><a href="https://github.com/Erica1217/algorithm-study-save-eyebrow/blob/main/221001%20%EA%B7%B8%EB%A6%AC%EB%94%94.md">김유진 블로그</a><br />
+<a href="https://github.com/grapefruit224/protect_eyebrow/tree/master/1005">이소정 블로그</a><br />
+<a href="https://github.com/gustjr7879/problem_solve/tree/main/모각코/2주차(그리디2)">박현석 블로그</a><br />
+<a href="https://github.com/hantawon123/K_lab-study/tree/master/%EB%AA%A8%EA%B0%81%EC%BD%94%202%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94">한태원 블로그</a><br />
+<a href="https://blog.noye.work/posts/DMLab-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%8A%A4%ED%84%B0%EB%94%94-8%EC%A3%BC%EC%B0%A8/">한창훈 블로그</a></p>]]></content><author><name>DMLab</name></author><category term="jekyll" /><category term="DMLab" /><category term="알고리즘" /><category term="백준" /><summary type="html"><![CDATA[개요]]></summary></entry><entry><title type="html">눈썹지키미 1주차</title><link href="/jekyll/2022/10/02/%EB%88%88%EC%8D%B9%EC%A7%80%ED%82%A4%EB%AF%B8-1%EC%A3%BC%EC%B0%A8.html" rel="alternate" type="text/html" title="눈썹지키미 1주차" /><published>2022-10-02T00:00:00+00:00</published><updated>2022-10-02T00:00:00+00:00</updated><id>/jekyll/2022/10/02/%EB%88%88%EC%8D%B9%EC%A7%80%ED%82%A4%EB%AF%B8-1%EC%A3%BC%EC%B0%A8</id><content type="html" xml:base="/jekyll/2022/10/02/%EB%88%88%EC%8D%B9%EC%A7%80%ED%82%A4%EB%AF%B8-1%EC%A3%BC%EC%B0%A8.html"><![CDATA[<h2 id="개요">개요</h2>
+
+<p>1주차 눈썹지키미 스터디는 수학 관련 4문제를 선정해 풀었습니다.</p>
+
+<p><a href="https://www.acmicpc.net/problem/2089">A번: [2089] -2진수</a><br />
+<a href="https://www.acmicpc.net/problem/1111">B번: [1111] IQ Test</a><br />
+<a href="https://www.acmicpc.net/problem/20500">C번: [20500] Ezreal 여눈부터 가네 ㅈㅈ</a><br />
+<a href="https://www.acmicpc.net/problem/1328">D번: [1328] 고층 빌딩</a></p>
+
+<h2 id="스코어보드">스코어보드</h2>
+
+<p><img src="/assets/images/1주차_스코어보드.png" alt="1주차_스코어보드" /></p>
+
+<p>이번 주는 A, B, C 문제들은 많은 사람들이 풀었고, D는 아무도 풀지 못헀습니다.<br />
+그리고 다행이 이번 주에는 눈썹을 지키지 못한 사람이 없었습니다.</p>
+
+<h2 id="팀원-블로그">팀원 블로그</h2>
+
+<p>팀원 각자가 블로그에 리뷰/회고를 작성했습니다.</p>
+
+<p><a href="https://github.com/Erica1217/algorithm-study-save-eyebrow/blob/main/220928%20(%EA%B7%B8%EB%83%A5)%20%EC%88%98%ED%95%99.md">김유진 블로그</a><br />
+<a href="https://github.com/grapefruit224/protect_eyebrow/tree/master/0928">이소정 블로그</a><br />
+<a href="https://github.com/gustjr7879/problem_solve/blob/main/%EB%AA%A8%EA%B0%81%EC%BD%94/1%EC%A3%BC%EC%B0%A8(%EC%88%98%ED%95%99)">박현석 블로그</a><br />
+<a href="https://github.com/hantawon123/K_lab-study/tree/master/%EB%AA%A8%EA%B0%81%EC%BD%94%201%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94">한태원 블로그</a><br />
+<a href="https://blog.noye.work/posts/DMLab-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%8A%A4%ED%84%B0%EB%94%94-7%EC%A3%BC%EC%B0%A8/">한창훈 블로그</a></p>]]></content><author><name>DMLab</name></author><category term="jekyll" /><category term="DMLab" /><category term="알고리즘" /><category term="백준" /><summary type="html"><![CDATA[개요]]></summary></entry></feed>
